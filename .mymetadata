@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CquptProject_Server"
+  id="myeclipse.1448351900205"
+  context-root="/CquptProject"
+  j2ee-spec="5.0"
+  archive="CquptProject_Server.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
