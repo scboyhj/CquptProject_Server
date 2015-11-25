@@ -56,5 +56,12 @@
 		<servlet-name>my_info</servlet-name>
 		<servlet-class>com.cqupt.deal.MyInfoServer</servlet-class>
 	</servlet>
-
+	<servlet-mapping>
+		<servlet-name>arrage_items</servlet-name>
+		<url-pattern>/get_arrange_items</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>arrage_items</servlet-name>
+		<servlet-class>com.cqupt.deal.ArrangeItemsServer</servlet-class>
+	</servlet>
 </web-app>
